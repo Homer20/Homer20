@@ -1,5 +1,7 @@
 ### Hello, I'm Dhaval Patel 👋
 
-- ✌️I am currently studying Computing Science at the University of Alberta
+- 🎓I am a third year Computing Science at the University of Alberta
 - 💻I have experience using Python, C, SQL, HTML/CSS
-- ✅I am learning Java and Android Studio at the moment
+- 🎯I am learning Java and Android Studio at the moment
+- 🖼️Check out my projects on my profile
+- 🙌Connect with me --> dhaval@ualberta.ca
