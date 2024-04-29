@@ -10,6 +10,7 @@
 #### Languages:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffdd54&color=3670A0)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=%23ED8B00)
+![](https://img.shields.io/badge/Code-C-informational%3Fstyle%3Dflat%26logo%3D%26logoColor%3Dwhite%26color%3D%252300599C)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=CC2927)
 ![](https://img.shields.io/badge/Code-HTML/CSS-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 
