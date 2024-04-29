@@ -25,4 +25,4 @@
 ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=%23F05033)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=FCC624)
 ![](https://img.shields.io/badge/CI-Github_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF)
-![](https://img.shields.io/badge/Methodology-Agile%2FScrum-informational?style=flat&logo=agile&logoColor=white&color=02569B)
+![](https://img.shields.io/badge/Methodology-Agile%2FScrum-informational?style=flat&logo=agile&logoColor=white&color=%23430098)
