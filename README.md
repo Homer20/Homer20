@@ -6,7 +6,7 @@
 - 🔎 Interested in Software Development, Web Dev and Cybersecurity
 - 🙌 Connect with me --> dhaval@ualberta.ca
 
-## Technologies & Tools 🔧
+## Tech Stack 🔧
 #### Languages:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffdd54&color=3670A0)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=%23ED8B00)
