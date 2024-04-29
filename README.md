@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffdd54&color=3670A0)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=%23ED8B00)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=CC2927)
+![](https://img.shields.io/badge/Code-HTML/CSS-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 
 #### Technologies:
 ![](https://img.shields.io/badge/Testing-JUnit-informational?style=flat&logo=junit5&logoColor=white&color=25A162)
