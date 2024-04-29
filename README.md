@@ -3,7 +3,7 @@
 - 🎓 Third year Computing Science @UAlberta
 - 💻 Experienced with Python, C, SQL, HTML/CSS
 - 🎯 Currently learning Java and Android Studio
-- 🔎 Interested in Software Development, Web Dev and Cybersecurity
+- 🔎 Interested in Software Development, Data Science and Project Management
 - 🙌 Connect with me --> dhaval@ualberta.ca
 
 ## Tech Stack 🔧
