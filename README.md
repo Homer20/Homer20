@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Homer20)
 
-- 🎓 Currently a Technical Support Analyst Intern <a href="(https://dream.ca/)" target="_blank">Dream</a>
+- 🎓 Currently a Technical Support Analyst Intern <a href="https://dream.ca/" target="_blank">Dream</a>
 
 - 💻 Experienced with Python, C, SQL, HTML/CSS
 - 🎯 Currently learning JavaScript and React
