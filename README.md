@@ -1,4 +1,4 @@
-### Hello, I'm Dhaval Patel 👋
+### Hello, I'm Dhaval 👋
 
 - 🎓 Third year Computing Science @UAlberta
 - 💻 Experienced with Python, C, SQL, HTML/CSS
