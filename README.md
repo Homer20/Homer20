@@ -1,11 +1,11 @@
 # Hello, I'm Dhaval 👋
 
-### I am a Computing Science student at the University of Alberta. I am passionate about using technology to solve real-world problems and make a positive impact
+### I am a Computing Science student at the University of Alberta. I am passionate about using technology to solve real-world problems and make a positive impact.
 
 
-- 🎓 Third year Computing Science @UAlberta
+- 🎓 Currently a Technical Support Analyst Intern @Dream
 - 💻 Experienced with Python, C, SQL, HTML/CSS
-- 🎯 Currently learning Java and Android Studio
+- 🎯 Currently learning JavaScript and React
 - 🔎 Interested in Software Development, Data Science and Project Management
 - 🙌 Connect with me --> dhaval@ualberta.ca
 
