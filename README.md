@@ -1,6 +1,6 @@
 # Hello, I'm Dhaval 👋
 
-### I am a computer science student
+### I am a Computing Science student at the University of Alberta. I am passionate about using technology to solve real-world problems and make a positive impact
 
 
 - 🎓 Third year Computing Science @UAlberta
