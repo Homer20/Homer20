@@ -2,6 +2,7 @@
 
 ### I am a Computing Science student at the University of Alberta. I am passionate about using technology to solve real-world problems and make a positive impact.
 
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
 - 🎓 Currently a Technical Support Analyst Intern @Dream
 - 💻 Experienced with Python, C, SQL, HTML/CSS
