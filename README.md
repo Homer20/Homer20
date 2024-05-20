@@ -1,7 +1,7 @@
-### Hello, I'm Dhaval 👋
+# Hello, I'm Dhaval 👋
 
 ## I am a computer science student
-# I am a computer science student
+
 
 - 🎓 Third year Computing Science @UAlberta
 - 💻 Experienced with Python, C, SQL, HTML/CSS
