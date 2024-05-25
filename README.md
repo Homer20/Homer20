@@ -32,4 +32,4 @@
 ![](https://img.shields.io/badge/CI-Github_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF)
 ![](https://img.shields.io/badge/Methodology-Agile%2FScrum-informational?style=flat&logo=agile&logoColor=white&color=%23430098)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Homer20&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Homer20&theme=midnight-purple" alt="GitHub Streak" /></a>
