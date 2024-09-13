@@ -9,7 +9,12 @@
 - 💻 Experienced with Python, C, SQL, HTML/CSS
 - 🎯 Currently learning JavaScript and React
 - 🔎 Interested in Software Development, Data Analysis and Data Engineering
-- 🙌 Connect with me --> dhaval@ualberta.ca
+- 🙌 Reach out to me --> dhaval@ualberta.ca
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/richardomor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richardomor" height="30" width="40" /></a>
+</p>
 
 ## Tech Stack 🔧
 #### Languages:
