@@ -5,10 +5,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Homer20)
 
-- 🎓 Currently a Fraud Analyst Intern @[Super.com](https://www.super.com/)
+- 🎓 Currently a Data Analyst Intern @[Super.com](https://www.super.com/)
 - 💻 Experienced with Python, C, SQL, HTML/CSS
 - 🎯 Currently learning JavaScript and React
-- 🔎 Interested in Software Development, Data Analysis and Data Engineering
+- 🔎 Interested in Data Analytics, Data Engineering and Software Development
 - 🙌 Reach out to me --> dhaval@ualberta.ca
 
 <h3 align="left">Connect with me:</h3>
