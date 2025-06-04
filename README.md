@@ -9,7 +9,7 @@
 - 🧳 Prev Technology Analyst Intern @[Dream](https://dream.ca/), Data Analyst Intern @[Super.com](https://www.super.com/)
 - 💻 Experienced with Python, C, SQL, HTML/CSS
 - 🎯 Currently learning JavaScript and React
-- 🔎 Interested in Data Analytics, Data Engineering and Software Development
+- 🔎 Interested in Data Analytics, Data Engineering and Project Management
 - 🙌 Reach out to me --> dhaval@ualberta.ca
 
 <h3 align="left">Connect with me:</h3>
