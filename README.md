@@ -5,7 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Homer20)
 
-- 🎓 Currently a Data Analyst Intern @[Super.com](https://www.super.com/)
+- 🎓 Currently a Data Analyst Intern @[Kent](https://www.super.com/), Automation Engineer Intern @[General Dynamics Mission Systems](https://gdmissionsystems.ca/)
+- 🧳 Prev Technology Analyst Intern @[Dream](https://dream.ca/), Data Analyst Intern @[Super.com](https://www.super.com/)
 - 💻 Experienced with Python, C, SQL, HTML/CSS
 - 🎯 Currently learning JavaScript and React
 - 🔎 Interested in Data Analytics, Data Engineering and Software Development
