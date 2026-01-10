@@ -5,8 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Homer20)
 
-- 💻 Currently a Data Analyst Intern @[Kent](https://kentplc.com/), Business Analyst Intern @[General Dynamics Mission Systems](https://gdmissionsystems.ca/)
-- 🧳 Prev Technology Analyst Intern @[Dream](https://dream.ca/), Data Analyst Intern @[Super.com](https://www.super.com/)
+- 💻 Currently a Data Analyst Intern @[Kent](https://kentplc.com/), Data Analyst Intern @[Super.com](https://www.super.com/)
+- 🧳 Prev Technology Analyst Intern @[Dream](https://dream.ca/), Fraud Analyst Intern @[Super.com](https://www.super.com/), Business Analyst Intern @[General Dynamics Mission Systems](https://gdmissionsystems.ca/)
 - 🎯 Interested in Data Analytics, Data Engineering and Project Management
 - 🙌 Reach out to me --> dhaval@ualberta.ca
 
