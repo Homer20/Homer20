@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I'm Dhaval 👋</h1>
 
-<h3 align="center">I am a Computer Science student at the University of Alberta. I am passionate about using technology to solve real-world problems and make a positive impact.</h3>
+<h3 align="center">I am a recent Computer Science graduate from the University of Alberta. I am passionate about using technology to solve real-world problems and make a positive impact.</h3>
 
 ![](https://komarev.com/ghpvc/?username=Homer20)
 
